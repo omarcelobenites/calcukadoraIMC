@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  color: #007bff;
+}
+
+h3 {
+  color: #6c757d;
+}
+
